@@ -95,7 +95,7 @@ function App() {
                 
                 {/* Botones de acción */}
                 <div className="flex gap-4">
-                  <a href="#" className="flex-1 text-center py-2 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 transition-colors text-sm font-medium">
+                  <a href="https://github.com/SantinoRojo/Pagina-de-Stream" target="_blank" rel="noopener noreferrer"className="flex-1 text-center py-2 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 transition-colors text-sm font-medium">
                     Ver Código
                   </a>
                   {/* Botón con efecto neón/brillo */}
